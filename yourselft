@@ -1,0 +1,159 @@
+Dưới đây là phần trích xuất và tổng hợp chuyên sâu từ CV “Nguyễn Văn Ngôn – Java Engineer”. Mọi chi tiết đều dựa trên nội dung PDF bạn cung cấp. 
+
+Nguyen-Van-Ngon-CV
+
+1) Kinh nghiệm làm việc (theo thời gian)
+
+TORA TECH — Java Developer (07/2024–nay)
+
+Dự án: Seika Daido / Seika Cloud (quản lý phân phối nông sản tươi; team ~20).
+
+Vai trò & phạm vi: Back-end Java 17 / Spring Boot 3.1.5; làm việc trong môi trường Dev Containers + Docker; phối hợp front-end VueJS; CSDL được ghi nhận là có khả năng PostgreSQL (suy luận theo DDL trong tài liệu).
+
+Chức năng nghiệp vụ chính sản phẩm: quản lý tồn kho; xử lý đơn hàng; phối hợp nhà cung cấp; bán hàng & báo cáo; phân quyền truy cập. 
+
+Nguyen-Van-Ngon-CV
+
+LIEN VIET POST BANK — Full-Stack Engineer (12/2022–06/2024)
+
+Dự án: Banking Web (team ~9). Front-end Angular, back-end Spring Boot.
+
+Nhiệm vụ tiêu biểu:
+
+Xây dựng hệ “AI” thu thập hóa đơn (điện/nước/học phí) bằng Python (thu thập dữ liệu website bằng BeautifulSoup / Scrapy).
+
+Phân tích dữ liệu hóa đơn và gửi thông báo/email/SMS cho người dùng.
+
+Thiết kế giao diện web mới bằng Angular (có các phân hệ thu hộ).
+
+Phát triển API & xác thực/ủy quyền trên Spring Boot để xử lý yêu cầu và điều phối với mô-đun thu thập dữ liệu.
+
+Triển khai hệ thống (front-end & back-end) lên môi trường production.
+
+Kiểm thử & tối ưu mô-đun thu thập dữ liệu.
+
+Bảo mật & bảo vệ dữ liệu cá nhân (mã hóa, xác thực). 
+
+Nguyen-Van-Ngon-CV
+
+FPT SOFTWARE — Java Developer (08/2020–08/2022)
+
+Orico2022 (BU FDN.DSI): chuyển đổi hệ thống nghiệp vụ bảo hiểm/tài sản từ VB.NET sang Web App (back-end Spring Boot).
+
+Các dự án Nhật (BU FSG.LTS) với nhiều mã dự án:
+
+FIN3_KinPL4_202110 / EXTENSION_UTR: đối soát chức năng giữa bản cũ–mới theo test case; sửa lỗi.
+
+YFW_CD: chuyển đổi truy vấn SQL → PL/pgSQL theo mô tả yêu cầu.
+
+LTS_KINPL4_S12022 (SMA_Investigate, FWS_Investigate…): di trú nhiều hệ thống (FAIMS/AM, FAIMS/WD, SMA, IRC) thuộc khách hàng DIR; sử dụng shell script và PL/SQL để chạy tool xử lý khối dữ liệu lớn (thời gian chạy ở mức nhiều giờ), tối ưu truy vấn/xử lý. Một nhánh công việc khác là di trú VB6 → .NET đảm bảo tương thích chức năng. 
+
+Nguyen-Van-Ngon-CV
+
+ST United Đà Nẵng — Thực tập (09/2021–11/202x)
+
+Học & thực hành ReactJS, PHP, Laravel (mốc kết thúc “202” trong CV bị thiếu chữ số). 
+
+Nguyen-Van-Ngon-CV
+
+2) Dự án tiêu biểu (rút gọn theo chủ đề)
+
+Seika Cloud (Phân phối nông sản — TORA TECH)
+
+Tech: Java 17, Spring Boot 3.1.5, Docker Dev Containers; VueJS; CSDL: ghi chú PostgreSQL (có thể).
+
+Chức năng: tồn kho, đơn hàng, nhà cung cấp, bán hàng & báo cáo, phân quyền.
+
+Ghi chú: sản phẩm thiên về vận hành chuỗi cung ứng nông sản, yêu cầu bảo mật phân quyền rõ. 
+
+Nguyen-Van-Ngon-CV
+
+Banking Web (Ngân hàng — Lien Viet Post Bank)
+
+Tech: Angular (UI), Spring Boot (API), Python/BeautifulSoup/Scrapy (thu thập dữ liệu), email/SMS.
+
+Chức năng trọng tâm: thu thập – phân tích dữ liệu hóa đơn; cảnh báo/nhắc nợ; kênh thu hộ (điện/nước/học phí); triển khai production; bảo mật dữ liệu người dùng. 
+
+Nguyen-Van-Ngon-CV
+
+Chuyển đổi & tối ưu hệ thống (Khách hàng Nhật — FPT Software)
+
+Tech: Spring Boot, PL/SQL, PL/pgSQL, shell script, .NET.
+
+Nội dung: di trú VB.NET/VB6 → Web/.NET, chuyển đổi ngôn ngữ truy vấn, đối soát chức năng theo test case, tối ưu xử lý dữ liệu lớn (batch nhiều giờ). 
+
+Nguyen-Van-Ngon-CV
+
+Dự án cá nhân (2020–2021)
+
+Sàn thương mại điện tử (Spring Boot JPA): tài khoản/ phân quyền, danh mục, khách hàng, đơn hàng, thống kê; site có đăng ký/đăng nhập/mua hàng/thanh toán.
+
+Hệ thống làm bài & chấm điểm online (AngularJS): đăng ký/đăng nhập/đổi mật khẩu/quên mật khẩu; chọn đề thi; trả kết quả ngay; có chatbox.
+
+Quản lý The Coffee House (JDBC/SQL Server): bán hàng, hóa đơn, quản lý nhân viên & sản phẩm.
+
+Quản lý điểm sinh viên (Swing + JDBC): đa nền tảng JDK≥1.8; đăng nhập/đăng ký/đổi mật khẩu/quên mật khẩu; xem thông tin & điểm. 
+
+Nguyen-Van-Ngon-CV
+
+3) Kế hoạch / Mục tiêu nghề nghiệp (theo CV)
+
+“Tìm kiếm cơ hội áp dụng kỹ năng kỹ thuật để phát triển web app bằng công nghệ hiện đại, gắn với mục tiêu tổ chức; đã dành ~5 năm tập trung làm nhiều dự án để củng cố chuyên môn.” (từ phần Objective). 
+
+Nguyen-Van-Ngon-CV
+
+4) Ưu / Nhược điểm (rút ra từ hồ sơ)
+
+Ưu điểm
+
+Nền tảng Spring Boot vững qua nhiều môi trường (ngân hàng, cung ứng nông sản, khách hàng Nhật).
+
+Full-stack khi cần: Angular/VueJS ở front, Spring Boot ở back, phối hợp Python cho thu thập & xử lý dữ liệu.
+
+Kinh nghiệm di trú hệ thống & hiện đại hóa (VB6/VB.NET → .NET/Web; SQL → PL/pgSQL), phù hợp bài toán kế thừa/legacy.
+
+Làm việc với dữ liệu lớn (batch nhiều giờ); biết dùng shell script/PLSQL để vận hành & tối ưu.
+
+Đa hệ CSDL: SQL Server, MySQL, Oracle, PostgreSQL (theo khai báo).
+
+Quy trình: quen Waterfall, Scrum (Agile); kỹ năng mềm: teamwork, tự học, chăm chỉ. 
+
+Nguyen-Van-Ngon-CV
+
+Nhược điểm / Điểm cần làm rõ
+
+Thiếu định lượng kết quả (KPI, số liệu hiệu năng, người dùng, SLA…); nhiều mô tả ở mức liệt kê chức năng.
+
+Thuật ngữ “AI system” trong dự án ngân hàng thực chất mô tả thu thập dữ liệu web bằng BeautifulSoup/Scrapy; nên chuẩn hóa cách gọi để tránh hiểu lầm về ML/AI.
+
+Một số mốc thời gian chưa chuẩn (ví dụ thực tập “09/2021–11/202” bị thiếu chữ số), và có lặp nội dung (kỹ năng Tin học Văn phòng).
+
+Thiếu chi tiết Engineering Practices hiện đại: CI/CD, Cloud (AWS/GCP/Azure), observability (log/metrics/trace), testing framework (JUnit/Testcontainers), security hardening cụ thể.
+
+Vài chi tiết bất định (VD: “Database: Possibly PostgreSQL”), nên làm rõ để tăng độ tin cậy hồ sơ. 
+
+Nguyen-Van-Ngon-CV
+
+5) Bằng cấp & chứng chỉ
+
+Học vấn
+
+FPT University – Đà Nẵng, CNTT (11/2018–12/2021); GPA 3.6/4; học lực Good (Kỳ 1–4), Excellent (Kỳ 5–6); Diploma hạng Distinction (GPA 3.6). 
+
+Nguyen-Van-Ngon-CV
+
+Chứng chỉ
+
+HackerRank – Java Certificate (tổng điểm ghi là “TOTAL HASKOS: 278”, link chứng chỉ được đính kèm trong CV). Khuyến nghị: chỉnh lại chính tả “HACKOS/Hackerrank Score” & URL để nhà tuyển dụng truy cập thuận tiện. 
+
+Nguyen-Van-Ngon-CV
+
+6) Kỹ năng (từ CV)
+
+Ngôn ngữ/Framework: Java, Spring Boot, Angular/AngularJS, RESTful API, HTML5/CSS3/JS, Bootstrap.
+
+CSDL & công cụ: SQL Server (SSMS 18), MySQL, Oracle, PostgreSQL.
+
+Quy trình: Waterfall, Scrum (Agile).
+
+Khác: Tiếng Anh; Word/Excel/PowerPoint; teamwork, self-study, hard-working.
